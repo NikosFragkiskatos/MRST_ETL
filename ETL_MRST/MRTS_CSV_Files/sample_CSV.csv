@@ -1,0 +1,7 @@
+order_id, timestamp, item, color
+'ord001','2023-10-28 19:09:55', 't-shirt', 'red'
+'ord002','2023-10-28 19:03:32', 'pants', 'black'
+'ord003','2023-10-28 18:33:44', 'jacket', 'blue'
+'ord004','2023-10-28 18:17:38', 'pants', 'green'
+'ord005','2023-10-28 15:35:03', 'jacket', 'yellow'
+'ord006','2023-10-28 15:23:11', 't-shirt', 'red'

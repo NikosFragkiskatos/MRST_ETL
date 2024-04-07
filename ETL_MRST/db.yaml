@@ -1,0 +1,6 @@
+  
+
+host: "localhost"
+user: "root"
+pswd: <create_your_password>
+db: "mrst_entries"
