@@ -1,6 +1,6 @@
 # MRTS Dataset ETL Project
 
-This project is an ETL (Extract, Transform, Load) pipeline designed to work with the MRTS dataset. It demonstrates efficient data manipulation and storage techniques using Python. The project covers the extraction of data, its transformation into a more useful format, and the loading of the transformed data into a MySQL database for further analysis.
+This project is an ETL (Extract, Transform, Load) pipeline designed to work with the MRTS dataset. It demonstrates efficient data manipulation and storage techniques using Python. The project covers the extraction of data, its transformation into a more useful format, and the loading of the transformed data into a MySQL database for further analysis. This is my submission I had done for the MIT Data Engineering program.
 
 ## Installation
 
