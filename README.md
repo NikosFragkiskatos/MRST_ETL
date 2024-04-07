@@ -8,11 +8,14 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to work with
 - Python 3.x
 - MySQL Server
 - Jupyter Notebook or JupyterLab
+  
+### MySQL Setup
+Before running the ETL scripts, ensure you have MySQL Server installed and that it is running on localhost at the default port 3306. You will need to create a database for the project and provide your own credentials. The ETL script will require you to update the `db.yaml` file with your MySQL username, password, and database name.
 
 ## Setup
 
 ### 1. Clone the repository using the following command:
-`git clone https://github.com/NikosFragkiskatos/Kafka_VehicleCoordinates.git`
+`git clone https://github.com/NikosFragkiskatos/MRST_ETL.git`
 
 ### 2. Install the required Python libraries:
 - In a Terminal or Command Prompt, run:
@@ -22,7 +25,7 @@ This project is an ETL (Extract, Transform, Load) pipeline designed to work with
 
 ### 1. Start the Jupyter Notebook:
 - Navigate to the project directory and run:
-  `jupyter notebook MRTS_Dataset_ETL.ipynb`
+  `jupyter notebook ETL_MRST_Notebook.ipynb`
 
 
 ### 2. Execute the notebook cells:
